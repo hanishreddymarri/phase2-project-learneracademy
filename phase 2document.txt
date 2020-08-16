@@ -1,0 +1,13 @@
+                                                                          Class-Report
+
+
+
+1.First we need to update the java version to 1.8.
+2.then we need to include sql workbench.
+3.we need to create a resource file known as hibernate.cfg.xml, which is used to connect .
+we also include our program class into it.
+4.In the class we need to first create a table with coulumn names as students,id,subjects,teachers,classes.
+5.then we need to  raete all the rows related information.
+6. We will find the table in sql workbench with all the contents which we gave.
+7.we can also display the details of any id we need, also delete and insert can be done.
+8.We also created a class report table in which we see number of students in a class with respective teachers and subjects number. 
